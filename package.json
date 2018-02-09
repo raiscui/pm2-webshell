@@ -36,7 +36,6 @@
       "name" : "pm2-webshell",
       "max_memory_restart": "100M",
       "merge_logs": true,
-      "interpreter" : "node@4.8.4"
     }
   ],
   "author": ["keymetrics", "JNK"],
