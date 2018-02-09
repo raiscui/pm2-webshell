@@ -35,7 +35,7 @@
       "script": "app.js",
       "name" : "pm2-webshell",
       "max_memory_restart": "100M",
-      "merge_logs": true,
+      "merge_logs": true
     }
   ],
   "author": ["keymetrics", "JNK"],
